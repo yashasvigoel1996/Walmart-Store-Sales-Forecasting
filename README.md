@@ -1,1 +1,1 @@
-# Walmart-Store-Sales-Forecasting
+# Go through STORE SALES FORECASTING.pdf
